@@ -3,7 +3,7 @@ Welcome to the Github for the TCNJ Energy Demand Tool.
 This project was developed in CSC 315 by students: Dalton Hutchinson, Bret Elphick, Jimmy Fay, Andrew Fellenz, Katherine Gellman, Alexander Reyes, and Brooks Watson. The teachers who helped oversee this project include: John DeGood and Bih-Horng Chiang.
 
 ## Project Info
-Click [here](https://github.com/TCNJ-degoodj/cab-project-01-4/wiki/Home) to go to the wiki home page and learn more about the project.
+Click [here](https://github.com/bretelphick/cab-project-01-4/wiki/Home) to go to the wiki home page and learn more about the project.
 
 ## Application Highlights
 You are taken to a form upon navigating to the Energy Demand Tool using a web browser.
@@ -25,10 +25,10 @@ Under the table there are two line graphs showing the energy and cost amounts fo
 Under the graphs there are five bootstrap stat cards displaying the average energy, sum of energy, average CO2e (conversion factors from carbonfund.org), average cost, and sum of costs. To calculate these values we used SQL aggregate functions. They provide a convenient summary of the energy demand data from an economical and environmental standpoint. 
 
 ## Installation/Usage Instructions
-Click [here](https://github.com/TCNJ-degoodj/cab-project-01-4/blob/main/doc/installation_guide.md) to view the installation guide.
+Click [here](https://github.com/bretelphick/cab-project-01-4/blob/main/doc/installation_guide.md) to view the installation guide.
 
 ## Contribute
-Want to contribute to the Energy Demand Tool? Check out this [guide](https://github.com/TCNJ-degoodj/cab-project-01-4/wiki/Contribute).
+Want to contribute to the Energy Demand Tool? Check out this [guide](https://github.com/bretelphick/cab-project-01-4/wiki/Contribute).
 
 ## License
-Click [here](https://github.com/TCNJ-degoodj/cab-project-01-4/blob/main/LICENSE) to view the license.
+Click [here](https://github.com/bretelphick/cab-project-01-4/blob/main/LICENSE) to view the license.
